@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="">
-    <img src="./media/teaser.png" alt="" width="90%">
+    <img src="./media/teaser_2.png" alt="" width="90%">
   </a>
   <a href="">
     <img src="./media/flowchart.png" alt="" width="90%">

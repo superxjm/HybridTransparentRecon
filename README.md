@@ -14,7 +14,7 @@
     <a href=""><strong>Weiwei Xu</strong></a>
     ·
   </p>
-  <h2 align="center">Computational Visual Media Journal 2023 (Accept)</h2>
+  <h2 align="center">Computational Visual Media Journal(CVMJ) 2023 (Accept)</h2>
   <h3 align="center"><a href="https://arxiv.org/pdf/2203.12613v3.pdf">Paper</a> | <a href="">Video</a> | <a href="">Project Page</a></h3></h3>
   <div align="center"></div>
 </p>

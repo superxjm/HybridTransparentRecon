@@ -1,4 +1,11 @@
-wget https://zjueducn-my.sharepoint.com/:u:/g/personal/11621062_zju_edu_cn/EV39n-0mpjtGrMeLOKnNs6kBAzrZdDvDxoCvq5YJ0Aw6rw?e=4863AJ
-wget https://zjueducn-my.sharepoint.com/:u:/g/personal/11621062_zju_edu_cn/EeyI9YLy1ZFDg6JY5CMHh4ABxjsLhHjqELlIycd5QWSKZg?e=chqpV5
-wget https://zjueducn-my.sharepoint.com/:u:/g/personal/11621062_zju_edu_cn/EVF_xrBbXjpIrrtXr_xSqBEBNTzaC7yim_plDlm2gOlCbg?e=SNWFVJ
+real_data_cat_2
+download_link: https://pan.baidu.com/s/1ZxU-CG-0klSrqYvfPj9g5g 
+extraction_code：TRAN 
 
+real_data_dog
+download_link: https://pan.baidu.com/s/1b67RgQqwxBuBfaWO3CsIhQ 
+extraction_code：TRAN 
+
+real_data_cow
+download_link: https://pan.baidu.com/s/1zgtcuIM0tmWB80LV4G2H6w 
+extraction_code：TRAN 
